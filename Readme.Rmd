@@ -1,0 +1,5 @@
+# kocami cok seviyom
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
